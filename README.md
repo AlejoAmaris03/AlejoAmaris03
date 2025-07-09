@@ -8,12 +8,28 @@ Data Systematization Technologist from **Francisco José de Caldas District Univ
 
 ## 🛠 Tech Stack & Tools
 
-- **Languages:** Java (Spring Boot), JavaScript, TypeScript
-- **Frontend:** Angular, HTML, CSS
-- **Backend:** Spring Boot, Node.js
-- **Databases:** MySQL, PostgreSQL
-- **Version Control:** Git & GitHub
-- **Other Tools:** REST APIs, Bootstrap, Material UI, Postman
+- **Languages**
+    - Java
+    - JavaScript
+    - TypeScript
+    - SQL
+
+- **Frameworks**
+    - Spring Boot with Java
+    - Spring Framework
+    - Angular
+ 
+- **Databases**
+    - SQL
+    - MySQL
+    - PostgreSQL
+
+- **Other Tools**
+    - Git/GitHub
+    - REST APIs
+    - Bootstrap
+    - Material UI
+    - Postman
 
 ---
 
