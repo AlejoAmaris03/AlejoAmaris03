@@ -1,16 +1,29 @@
-## Hi there 👋
+##👋 Hello! I'm Alejandro Amaris
 
-<!--
-**AlejoAmaris03/AlejoAmaris03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Systematization Technologist from **Francisco José de Caldas District University** based in Colombia.  
+💻 Passionate about software development and facing new challenges every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠 Tech Stack & Tools
+
+- **Languages:** Java (Spring Boot), JavaScript, TypeScript
+- **Frontend:** Angular, HTML, CSS
+- **Backend:** Spring Boot, Node.js
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git & GitHub
+- **Other Tools:** REST APIs, Bootstrap, Material UI, Postman
+
+---
+
+# 🚀 Career Goal
+
+To become part of a dynamic team where I can apply my knowledge, continue learning, and contribute to the success of technological projects and company goals.
+
+---
+
+## 📫 Contact Me
+
+- ✉️ alejoamaris2005@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/alejandro-amaris-709471312)
+- 🌐 Portfolio (coming soon)
