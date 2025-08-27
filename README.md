@@ -23,10 +23,12 @@ Data Systematization Technologist from **Francisco José de Caldas District Univ
     - SQL
     - MySQL
     - PostgreSQL
+    - MongoDB
 
-- **Other Tools**
-    - Git/GitHub
+- **Other Tools** 
+    - Microservices
     - REST APIs
+    - Git/GitHub
     - Bootstrap
     - Material UI
     - Postman
