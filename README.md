@@ -28,6 +28,7 @@ Data Systematization Technologist from **Francisco José de Caldas District Univ
 - **Other Tools** 
     - Microservices
     - REST APIs
+    - WebSocket
     - Git/GitHub
     - Bootstrap
     - Material UI
